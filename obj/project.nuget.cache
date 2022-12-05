@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TfP1R2E/rtdie9Xz3MObLBXkraI+6vKCXHKayeN9oOZPEp3wuvHw+Brrp+raNn0+pAvNzC0KDJtICuNC8JvnjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vibe\\source\\repos\\IWantApp\\IWantApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vibe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Vibe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vibe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vibe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vibe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vibe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
